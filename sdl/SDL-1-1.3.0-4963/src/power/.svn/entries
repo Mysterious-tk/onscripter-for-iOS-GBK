@@ -1,0 +1,80 @@
+10
+
+dir
+5
+http://gbk-onscripter.googlecode.com/svn/trunk/SDL-1-1.3.0-4963/src/power
+http://gbk-onscripter.googlecode.com/svn
+
+
+
+2011-02-05T06:36:32.464306Z
+2
+yc0576@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8e860379-0d60-d3d2-379c-6b95460d3681
+
+linux
+dir
+
+SDL_power.c
+file
+
+
+
+
+2011-07-31T05:50:56.000000Z
+df535f214b1af6475f31308a3cdfdfb9
+2011-02-05T06:36:32.464306Z
+2
+yc0576@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3477
+
+nds
+dir
+
+uikit
+dir
+
+beos
+dir
+
+macosx
+dir
+
+windows
+dir
+

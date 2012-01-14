@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap
+END
+Distinct.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap/Distinct.c
+END
+VisCmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap/VisCmap.c
+END
+DelCmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap/DelCmap.c
+END
+CrCmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap/CrCmap.c
+END
+AllCmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap/AllCmap.c
+END
+LookupCmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap/LookupCmap.c
+END
+CmapAlloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap/CmapAlloc.c
+END
+StdCmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/Xext/XmuStdCmap/StdCmap.c
+END

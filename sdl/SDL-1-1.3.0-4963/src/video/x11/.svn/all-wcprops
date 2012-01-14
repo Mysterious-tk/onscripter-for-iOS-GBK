@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11
+END
+SDL_x11events.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11events.c
+END
+SDL_x11clipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11clipboard.h
+END
+SDL_x11shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11shape.h
+END
+SDL_x11video.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11video.c
+END
+SDL_x11window.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11window.c
+END
+SDL_x11modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11modes.c
+END
+SDL_x11events.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11events.h
+END
+SDL_x11video.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11video.h
+END
+SDL_x11window.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11window.h
+END
+SDL_x11modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11modes.h
+END
+SDL_x11opengles.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11opengles.c
+END
+SDL_x11render.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11render.c
+END
+SDL_x11opengles.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11opengles.h
+END
+SDL_x11touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11touch.c
+END
+SDL_x11render.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11render.h
+END
+SDL_x11opengl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11opengl.c
+END
+imKStoUCS.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/imKStoUCS.c
+END
+SDL_x11touch.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11touch.h
+END
+SDL_x11mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11mouse.c
+END
+SDL_x11opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11opengl.h
+END
+SDL_x11dyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11dyn.c
+END
+imKStoUCS.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/imKStoUCS.h
+END
+SDL_x11mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11mouse.h
+END
+SDL_x11dyn.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11dyn.h
+END
+SDL_x11keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11keyboard.c
+END
+SDL_x11keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11keyboard.h
+END
+SDL_x11sym.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11sym.h
+END
+SDL_x11gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11gamma.c
+END
+SDL_x11gamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11gamma.h
+END
+SDL_x11clipboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11clipboard.c
+END
+SDL_x11shape.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/x11/SDL_x11shape.c
+END

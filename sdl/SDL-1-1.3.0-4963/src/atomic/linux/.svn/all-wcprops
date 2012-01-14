@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/atomic/linux
+END
+SDL_atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/atomic/linux/SDL_atomic.c
+END

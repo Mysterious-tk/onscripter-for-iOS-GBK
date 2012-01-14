@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/audio/fusionsound
+END
+SDL_fsaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/audio/fusionsound/SDL_fsaudio.h
+END
+SDL_fsaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/audio/fusionsound/SDL_fsaudio.c
+END

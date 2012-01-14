@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Template/SDL%20Application/build/Debug-iphonesimulator/___PROJECTNAME___.app
+END
+___PROJECTNAME___
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Template/SDL%20Application/build/Debug-iphonesimulator/___PROJECTNAME___.app/___PROJECTNAME___
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Template/SDL%20Application/build/Debug-iphonesimulator/___PROJECTNAME___.app/Info.plist
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Template/SDL%20Application/build/Debug-iphonesimulator/___PROJECTNAME___.app/Default.png
+END
+Icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Template/SDL%20Application/build/Debug-iphonesimulator/___PROJECTNAME___.app/Icon.png
+END
+PkgInfo
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Template/SDL%20Application/build/Debug-iphonesimulator/___PROJECTNAME___.app/PkgInfo
+END

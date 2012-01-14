@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/keyboard.c
+END
+happy.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/happy.c
+END
+touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/touch.c
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/mixer.c
+END
+rectangles.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/rectangles.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/common.c
+END
+accelerometer.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/accelerometer.c
+END
+fireworks.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/fireworks.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/src/common.h
+END

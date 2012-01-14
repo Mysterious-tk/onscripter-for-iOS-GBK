@@ -1,0 +1,43 @@
+10
+
+dir
+5
+http://gbk-onscripter.googlecode.com/svn/trunk/SDL-1-1.3.0-4963/src/loadso
+http://gbk-onscripter.googlecode.com/svn
+
+
+
+2011-02-05T06:36:32.464306Z
+2
+yc0576@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8e860379-0d60-d3d2-379c-6b95460d3681
+
+dlopen
+dir
+
+win32
+dir
+
+beos
+dir
+
+macosx
+dir
+
+dummy
+dir
+

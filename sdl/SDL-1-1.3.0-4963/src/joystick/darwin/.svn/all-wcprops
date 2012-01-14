@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/joystick/darwin
+END
+SDL_sysjoystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/joystick/darwin/SDL_sysjoystick.c
+END
+SDL_sysjoystick_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/joystick/darwin/SDL_sysjoystick_c.h
+END

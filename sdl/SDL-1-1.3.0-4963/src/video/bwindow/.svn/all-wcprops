@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow
+END
+SDL_lowvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_lowvideo.h
+END
+SDL_sysmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_sysmouse_c.h
+END
+SDL_BView.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_BView.h
+END
+SDL_BWin.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_BWin.h
+END
+SDL_syswm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_syswm.cc
+END
+SDL_sysyuv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_sysyuv.cc
+END
+SDL_sysevents.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_sysevents.cc
+END
+SDL_sysyuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_sysyuv.h
+END
+SDL_sysvideo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_sysvideo.cc
+END
+SDL_syswm_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_syswm_c.h
+END
+SDL_sysmouse.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_sysmouse.cc
+END
+SDL_sysevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/bwindow/SDL_sysevents_c.h
+END

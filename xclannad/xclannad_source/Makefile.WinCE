@@ -1,0 +1,33 @@
+
+PREF = /usr/local/mingw32ce/arm-wince-mingw32ce
+
+TARGET = xclannad.exe
+
+DEFS = -DWINCE -DWIN32 -DENABLE_PATCH
+CFLAGS = $(DEFS) -O2 -Wall -fsigned-char -DHAVE_CONFIG_H -Drandom=rand -Dmain=SDL_main $(shell $(PREF)/bin/sdl-config --cflags) $(shell $(PREF)/bin/freetype-config --cflags)
+
+LDFLAGS = -static `$(PREF)/bin/sdl-config --libs` -lSDL_mixer -lSDL -lvorbisidec -lmad -lfreetype -ljpeg -lpng -lz
+
+include Makefile.xclannad
+
+OBJS = $(XCLANNAD_OBJS)
+CFLAGS += $(XCLANNAD_CFLAGS)
+
+all : $(TARGET)
+
+CC = arm-wince-mingw32ce-gcc -finput-charset=cp932 -fexec-charset=cp932
+CXX= arm-wince-mingw32ce-g++ -finput-charset=cp932 -fexec-charset=cp932
+LD = arm-wince-mingw32ce-g++ -finput-charset=cp932 -fexec-charset=cp932
+
+xclannad.exe : $(OBJS)
+	$(LD) -o xclannad.exe $(OBJS) $(LDFLAGS)
+
+.c.o:
+	$(CC) -c $(CFLAGS) -o $@ $<
+
+.cc.o:
+	$(CXX) -c $(CFLAGS) -o $@ $<
+
+clean:
+	rm -f $(TARGET) $(OBJS)
+

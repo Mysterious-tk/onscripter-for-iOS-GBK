@@ -1,0 +1,719 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Rectangles */ = {
+		activeExec = 0;
+		executables = (
+			582CF12412DC18BE009FDD9E /* Rectangles */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 582CF12512DC18BE009FDD9E /* Happy */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = FD15FCB10E086866003BDF25 /* Happy */;
+		breakpoints = (
+		);
+		codeSenseManager = 582CF13F12DC18EF009FDD9E /* Code sense */;
+		executables = (
+			582CF12412DC18BE009FDD9E /* Rectangles */,
+			582CF12512DC18BE009FDD9E /* Happy */,
+			582CF12612DC18BE009FDD9E /* Accel */,
+			582CF12712DC18BE009FDD9E /* Touch */,
+			582CF12812DC18BE009FDD9E /* Mixer */,
+			582CF12912DC18BE009FDD9E /* Fireworks */,
+			582CF12A12DC18BE009FDD9E /* Keyboard */,
+			58280B7712DC96A8000794C4 /* happy2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					751.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					864,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					824,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318070243;
+			PBXWorkspaceStateSaveDate = 318070243;
+		};
+		perUserProjectItems = {
+			5820E8EF12DF0A8E0013090E /* PBXTextBookmark */ = 5820E8EF12DF0A8E0013090E /* PBXTextBookmark */;
+			582659CA12F56921008B3FB4 /* PBXTextBookmark */ = 582659CA12F56921008B3FB4 /* PBXTextBookmark */;
+			582659CB12F56921008B3FB4 /* PBXTextBookmark */ = 582659CB12F56921008B3FB4 /* PBXTextBookmark */;
+			582659CC12F56921008B3FB4 /* PBXTextBookmark */ = 582659CC12F56921008B3FB4 /* PBXTextBookmark */;
+			582659CD12F56921008B3FB4 /* PBXTextBookmark */ = 582659CD12F56921008B3FB4 /* PBXTextBookmark */;
+			58280B0512DC9136000794C4 /* PlistBookmark */ = 58280B0512DC9136000794C4 /* PlistBookmark */;
+			58280B0612DC9136000794C4 /* PBXTextBookmark */ = 58280B0612DC9136000794C4 /* PBXTextBookmark */;
+			58280B9412DC96FC000794C4 /* PBXTextBookmark */ = 58280B9412DC96FC000794C4 /* PBXTextBookmark */;
+			5828FAC812DD600500710C10 /* PBXTextBookmark */ = 5828FAC812DD600500710C10 /* PBXTextBookmark */;
+			5828FAC912DD600500710C10 /* PBXTextBookmark */ = 5828FAC912DD600500710C10 /* PBXTextBookmark */;
+			5828FB5812DD687900710C10 /* PBXBookmark */ = 5828FB5812DD687900710C10 /* PBXBookmark */;
+			5828FB5912DD687900710C10 /* PBXBookmark */ = 5828FB5912DD687900710C10 /* PBXBookmark */;
+			582CF23C12DC2037009FDD9E /* PlistBookmark */ = 582CF23C12DC2037009FDD9E /* PlistBookmark */;
+			582CF24712DC20B1009FDD9E /* PlistBookmark */ = 582CF24712DC20B1009FDD9E /* PlistBookmark */;
+			582CF26712DC2245009FDD9E /* PlistBookmark */ = 582CF26712DC2245009FDD9E /* PlistBookmark */;
+			5846E0FF12DDDAF6009D36D7 /* PBXBookmark */ = 5846E0FF12DDDAF6009D36D7 /* PBXBookmark */;
+			5846E21812DDEFDF009D36D7 /* PBXTextBookmark */ = 5846E21812DDEFDF009D36D7 /* PBXTextBookmark */;
+			5846E21C12DDEFDF009D36D7 /* PBXTextBookmark */ = 5846E21C12DDEFDF009D36D7 /* PBXTextBookmark */;
+			587F9ED612F2D9530047F80F /* PBXBookmark */ = 587F9ED612F2D9530047F80F /* PBXBookmark */;
+			587F9ED712F2D9530047F80F /* PBXTextBookmark */ = 587F9ED712F2D9530047F80F /* PBXTextBookmark */;
+			58A909EB12DEEBBE0043E7DF /* PlistBookmark */ = 58A909EB12DEEBBE0043E7DF /* PlistBookmark */;
+		};
+		sourceControlManager = 582CF13E12DC18EF009FDD9E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5820E8EF12DF0A8E0013090E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD77A0080E26BC0500F39101 /* happy.c */;
+		name = "happy.c: 181";
+		rLen = 31;
+		rLoc = 5041;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 4968;
+	};
+	582659CA12F56921008B3FB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD77A00B0E26BC0500F39101 /* touch.c */;
+		name = "touch.c: 85";
+		rLen = 0;
+		rLoc = 2540;
+		rType = 0;
+		vrLen = 681;
+		vrLoc = 2207;
+	};
+	582659CB12F56921008B3FB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD77A0060E26BC0500F39101 /* common.c */;
+		name = "common.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 293;
+	};
+	582659CC12F56921008B3FB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDB652110E43D21A00F688B5 /* keyboard.c */;
+		name = "keyboard.c: 16";
+		rLen = 8;
+		rLoc = 432;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 75;
+	};
+	582659CD12F56921008B3FB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDB652110E43D21A00F688B5 /* keyboard.c */;
+		name = "keyboard.c: 18";
+		rLen = 25;
+		rLoc = 604;
+		rType = 0;
+		vrLen = 1315;
+		vrLoc = 1720;
+	};
+	58280B0512DC9136000794C4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 582CF26912DC2245009FDD9E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIInterfaceOrientation,
+		);
+		name = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Keyboard.app/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	58280B0612DC9136000794C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDC52EE40E284410008D768C /* fireworks.c */;
+		name = "fireworks.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	58280B7512DC96A8000794C4 /* happy2 */ = {
+		activeExec = 0;
+		executables = (
+			58280B7712DC96A8000794C4 /* happy2 */,
+		);
+	};
+	58280B7712DC96A8000794C4 /* happy2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = happy2;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	58280B8412DC96DD000794C4 /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	58280B9412DC96FC000794C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 58280B8412DC96DD000794C4 /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 247";
+		rLen = 27;
+		rLoc = 9671;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 9312;
+	};
+	5828FAC812DD600500710C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD77A00A0E26BC0500F39101 /* rectangles.c */;
+		name = "rectangles.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 450;
+		vrLoc = 0;
+	};
+	5828FAC912DD600500710C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD77A0050E26BC0500F39101 /* accelerometer.c */;
+		name = "accelerometer.c: 190";
+		rLen = 12;
+		rLoc = 6182;
+		rType = 0;
+		vrLen = 973;
+		vrLoc = 5958;
+	};
+	5828FB5812DD687900710C10 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FD787AA00E22A5CC003E8E36 /* Default.png */;
+	};
+	5828FB5912DD687900710C10 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FD925B180E0F276600E92347 /* Icon.png */;
+	};
+	582CF12412DC18BE009FDD9E /* Rectangles */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Rectangles;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	582CF12512DC18BE009FDD9E /* Happy */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Happy;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	582CF12612DC18BE009FDD9E /* Accel */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Accel;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	582CF12712DC18BE009FDD9E /* Touch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Touch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	582CF12812DC18BE009FDD9E /* Mixer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Mixer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	582CF12912DC18BE009FDD9E /* Fireworks */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Fireworks;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	582CF12A12DC18BE009FDD9E /* Keyboard */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Keyboard;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	582CF13E12DC18EF009FDD9E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	582CF13F12DC18EF009FDD9E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	582CF18C12DC1AF5009FDD9E /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = file.bplist;
+		name = Info.plist;
+		path = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Accel.app/Info.plist";
+		sourceTree = "<absolute>";
+	};
+	582CF23C12DC2037009FDD9E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 582CF18C12DC1AF5009FDD9E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			DTPlatformBuild,
+		);
+		name = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Accel.app/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	582CF23E12DC2037009FDD9E /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = file.bplist;
+		name = Info.plist;
+		path = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Mixer.app/Info.plist";
+		sourceTree = "<absolute>";
+	};
+	582CF24712DC20B1009FDD9E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 582CF23E12DC2037009FDD9E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIInterfaceOrientation,
+		);
+		name = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Mixer.app/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	582CF24E12DC2108009FDD9E /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = file.bplist;
+		name = Info.plist;
+		path = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Rectangles.app/Info.plist";
+		sourceTree = "<absolute>";
+	};
+	582CF26712DC2245009FDD9E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 582CF24E12DC2108009FDD9E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIInterfaceOrientation,
+		);
+		name = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Rectangles.app/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	582CF26912DC2245009FDD9E /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = file.bplist;
+		name = Info.plist;
+		path = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Keyboard.app/Info.plist";
+		sourceTree = "<absolute>";
+	};
+	5846E0FF12DDDAF6009D36D7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FDB651CC0E43D19800F688B5 /* icon.bmp */;
+	};
+	5846E21812DDEFDF009D36D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5846E21912DDEFDF009D36D7 /* UIScreen.h */;
+		name = "UIScreen.h: 40";
+		rLen = 139;
+		rLoc = 1719;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 891;
+	};
+	5846E21912DDEFDF009D36D7 /* UIScreen.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIScreen.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScreen.h;
+		sourceTree = "<absolute>";
+	};
+	5846E21C12DDEFDF009D36D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD77A0070E26BC0500F39101 /* common.h */;
+		name = "common.h: 7";
+		rLen = 25;
+		rLoc = 73;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	5846E22E12DDF041009D36D7 /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = file.bplist;
+		name = Info.plist;
+		path = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Happy.app/Info.plist";
+		sourceTree = "<absolute>";
+	};
+	587F9ED612F2D9530047F80F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FDB651CF0E43D19800F688B5 /* stroke.bmp */;
+	};
+	587F9ED712F2D9530047F80F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD77A0090E26BC0500F39101 /* mixer.c */;
+		name = "mixer.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	58A909EB12DEEBBE0043E7DF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 5846E22E12DDF041009D36D7 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/yc/Desktop/工作目录/SDL-1-1.3.0-4963/Xcode-iPhoneOS/Demos/build/Debug-iphoneos/Happy.app/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FD15FCB10E086866003BDF25 /* Happy */ = {
+		activeExec = 0;
+		executables = (
+			582CF12512DC18BE009FDD9E /* Happy */,
+		);
+	};
+	FD5F9BE30E0DEBEA008E885B /* Accel */ = {
+		activeExec = 0;
+		executables = (
+			582CF12612DC18BE009FDD9E /* Accel */,
+		);
+	};
+	FD77A0050E26BC0500F39101 /* accelerometer.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 3159}}";
+			sepNavSelRange = "{6182, 12}";
+			sepNavVisRange = "{5958, 973}";
+			sepNavWindowFrame = "{{235, 91}, {750, 655}}";
+		};
+	};
+	FD77A0060E26BC0500F39101 /* common.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{293, 290}";
+		};
+	};
+	FD77A0070E26BC0500F39101 /* common.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 527}}";
+			sepNavSelRange = "{73, 25}";
+			sepNavVisRange = "{0, 257}";
+			sepNavWindowFrame = "{{15, 91}, {750, 655}}";
+		};
+	};
+	FD77A0080E26BC0500F39101 /* happy.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 2756}}";
+			sepNavSelRange = "{5041, 31}";
+			sepNavVisRange = "{4968, 531}";
+			sepNavWindowFrame = "{{280, 83}, {750, 655}}";
+		};
+	};
+	FD77A0090E26BC0500F39101 /* mixer.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 4589}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 610}";
+		};
+	};
+	FD77A00A0E26BC0500F39101 /* rectangles.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1144}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 450}";
+			sepNavWindowFrame = "{{310, 91}, {750, 655}}";
+		};
+	};
+	FD77A00B0E26BC0500F39101 /* touch.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1651}}";
+			sepNavSelRange = "{2540, 0}";
+			sepNavVisRange = "{2207, 681}";
+		};
+	};
+	FDB651F70E43D1F300F688B5 /* Keyboard */ = {
+		activeExec = 0;
+		executables = (
+			582CF12A12DC18BE009FDD9E /* Keyboard */,
+		);
+	};
+	FDB652110E43D21A00F688B5 /* keyboard.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 4290}}";
+			sepNavSelRange = "{6689, 14}";
+			sepNavVisRange = "{6445, 467}";
+			sepNavWindowFrame = "{{182, 91}, {750, 655}}";
+		};
+	};
+	FDC202DD0E107B1200ABAC90 /* Touch */ = {
+		activeExec = 0;
+		executables = (
+			582CF12712DC18BE009FDD9E /* Touch */,
+		);
+	};
+	FDC52EC60E2843D6008D768C /* Fireworks */ = {
+		activeExec = 0;
+		executables = (
+			582CF12912DC18BE009FDD9E /* Fireworks */,
+		);
+	};
+	FDC52EE40E284410008D768C /* fireworks.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 5915}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 540}";
+		};
+	};
+	FDF0D6920E12D05400247964 /* Mixer */ = {
+		activeExec = 0;
+		executables = (
+			582CF12812DC18BE009FDD9E /* Mixer */,
+		);
+	};
+}

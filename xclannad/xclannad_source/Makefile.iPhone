@@ -1,0 +1,42 @@
+
+PREF = /usr/local/arm-apple-darwin
+
+TARGET = xclannad
+
+DEFS = -DIPHONE -DENABLE_PATCH
+CFLAGS = $(DEFS) -O2 -Wall -fsigned-char -DHAVE_CONFIG_H -Dmain=SDL_main $(shell $(PREF)/bin/sdl-config --cflags) $(shell $(PREF)/bin/freetype-config --cflags)
+
+LDFLAGS = \
+	$(PREF)/lib/libSDL_mixer.a \
+	$(PREF)/lib/libSDLmain.a \
+	$(PREF)/lib/libSDL.a \
+	$(PREF)/lib/libvorbisidec.a \
+	$(PREF)/lib/libmad.a \
+	$(PREF)/lib/libfreetype.a \
+	$(PREF)/lib/libjpeg.a \
+	$(PREF)/lib/libpng.a \
+	-lz -lobjc -framework CoreFoundation -framework UIKit -framework CoreGraphics -framework CoreSurface -framework GraphicsServices -framework CoreAudio -framework AudioToolbox
+	
+include Makefile.xclannad
+
+OBJS = $(XCLANNAD_OBJS)
+CFLAGS += $(XCLANNAD_CFLAGS)
+
+all : $(TARGET)
+
+CC = arm-apple-darwin-gcc
+CXX= arm-apple-darwin-g++
+LD = arm-apple-darwin-g++
+
+xclannad : $(OBJS)
+	$(LD) -o xclannad $(OBJS) $(LDFLAGS)
+
+.c.o:
+	$(CC) -c $(CFLAGS) -o $@ $<
+
+.cc.o:
+	$(CXX) -c $(CFLAGS) -o $@ $<
+
+clean:
+	rm -f $(TARGET) $(OBJS)
+

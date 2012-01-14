@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit
+END
+SDL_uikitopengles.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitopengles.m
+END
+SDL_uikitopenglview.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitopenglview.m
+END
+jumphack.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/jumphack.c
+END
+手势代码.rar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/%E6%89%8B%E5%8A%BF%E4%BB%A3%E7%A0%81.rar
+END
+jumphack.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/jumphack.h
+END
+SDL_uikitkeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitkeyboard.h
+END
+SDL_uikitevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitevents.h
+END
+keyinfotable.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/keyinfotable.h
+END
+SDL_uikitvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitvideo.h
+END
+SDL_uikitwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitwindow.h
+END
+SDL_uikitevents.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitevents.m
+END
+SDL_uikitview.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitview.h
+END
+SDL_uikitmoviedelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitmoviedelegate.h
+END
+SDL_uikitvideo.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitvideo.m
+END
+SDL_uikitappdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitappdelegate.h
+END
+SDL_uikitwindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitwindow.m
+END
+SDL_uikitopengles.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitopengles.h
+END
+SDL_uikitopenglview.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitopenglview.h
+END
+SDL_uikitview.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitview.m
+END
+SDL_uikitmoviedelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitmoviedelegate.m
+END
+SDL_uikitmovie.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitmovie.h
+END
+SDL_uikitappdelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/uikit/SDL_uikitappdelegate.m
+END

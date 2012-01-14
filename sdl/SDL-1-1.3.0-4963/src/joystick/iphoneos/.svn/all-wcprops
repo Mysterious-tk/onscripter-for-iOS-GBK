@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/joystick/iphoneos
+END
+SDLUIAccelerationDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/joystick/iphoneos/SDLUIAccelerationDelegate.m
+END
+SDLUIAccelerationDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/joystick/iphoneos/SDLUIAccelerationDelegate.h
+END
+SDL_sysjoystick.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/joystick/iphoneos/SDL_sysjoystick.m
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa
+END
+SDL_cocoaopengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoaopengl.h
+END
+SDL_cocoamouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoamouse.h
+END
+SDL_cocoaopengl.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoaopengl.m
+END
+SDL_cocoamouse.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoamouse.m
+END
+SDL_cocoaclipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoaclipboard.h
+END
+SDL_cocoashape.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoashape.h
+END
+SDL_cocoakeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoakeyboard.h
+END
+SDL_cocoaevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoaevents.h
+END
+SDL_cocoaclipboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoaclipboard.m
+END
+SDL_cocoakeyboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoakeyboard.m
+END
+SDL_cocoashape.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoashape.m
+END
+SDL_cocoavideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoavideo.h
+END
+SDL_cocoawindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoawindow.h
+END
+SDL_cocoamodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoamodes.h
+END
+SDL_cocoaevents.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoaevents.m
+END
+SDL_cocoavideo.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoavideo.m
+END
+SDL_cocoamodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoamodes.m
+END
+SDL_cocoawindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/video/cocoa/SDL_cocoawindow.m
+END

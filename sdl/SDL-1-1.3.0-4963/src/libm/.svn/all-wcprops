@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/math.h
+END
+k_cos.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/k_cos.c
+END
+s_floor.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/s_floor.c
+END
+k_sin.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/k_sin.c
+END
+s_atan.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/s_atan.c
+END
+s_cos.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/s_cos.c
+END
+e_atan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/e_atan2.c
+END
+e_pow.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/e_pow.c
+END
+s_sin.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/s_sin.c
+END
+s_copysign.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/s_copysign.c
+END
+e_rem_pio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/e_rem_pio2.c
+END
+s_scalbn.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/s_scalbn.c
+END
+e_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/e_log.c
+END
+k_rem_pio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/k_rem_pio2.c
+END
+math_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/math_private.h
+END
+s_fabs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/s_fabs.c
+END
+e_sqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/libm/e_sqrt.c
+END

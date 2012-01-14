@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/audio/disk
+END
+SDL_diskaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/audio/disk/SDL_diskaudio.c
+END
+SDL_diskaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/SDL-1-1.3.0-4963/src/audio/disk/SDL_diskaudio.h
+END
